@@ -3,7 +3,7 @@
 A sleek, lightweight, and fully customizable toast notification library for React. Built with animations in mind to give your users a *cool* experience.
 
 
-## ✨ Features
+## ✨ Features ##
 
 - 🧊 Cool animations (enter/exit)
 - 🎨 Fully customizable styles
@@ -14,7 +14,7 @@ A sleek, lightweight, and fully customizable toast notification library for Reac
 
 ---
  
-                     TO BE IMPLEMENTED...
+                         TO BE IMPLEMENTED...
 ## 📦 Installation
 
 ```bash

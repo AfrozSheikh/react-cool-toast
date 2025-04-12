@@ -12,7 +12,7 @@ export const StoneToast = ({ message }: { message: string }) => {
         stiffness: 100,
         damping: 12,
       }}
-      className="px-6 py-4 rounded-full text-white shadow-xl text-sm text-center select-none"
+      className="px-6 py-4 rounded-full text-black shadow-xl text-sm text-center select-none"
       style={{
         background: `url('/stone-texture.png')`,
         backgroundSize: 'cover',
